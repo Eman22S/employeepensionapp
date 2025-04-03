@@ -24,5 +24,4 @@ A simple Java-based command-line application for managing employee pension plans
 
 ---
 
-## 📁 Project Structure
 
